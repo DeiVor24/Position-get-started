@@ -1,0 +1,95 @@
+.body{
+    margin: 0;
+    background-image: url(./img/Screenshot\ 2024-07-22\ 082839.png);
+    background-repeat:no-repeat;
+    background-size: 100%;
+    
+    
+    
+    image-resolution: 0;
+}
+.main{
+    display: flex;
+    align-items: center;
+    width: 50%;
+    height: 50%;
+    margin-top: 13%;
+    margin-left: 25%;
+    position: fixed;
+   
+}
+.x{
+    float: right;
+    width: 20px;
+    height: 20px;
+    padding: 15px;
+}
+.info{
+    font-size: 15px;
+    color: lightgray;
+    position: absolute;
+    top: 8%;
+    left: 48%
+    
+}
+.getst{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    position: absolute;
+    left: 48%;
+    top:82%;
+
+}
+.photo{
+    display: flex;
+    align-items:normal;
+    color: white;
+    font-size: 30px;
+    font-weight: lighter;
+    font-family: dubai light;
+    background-image: url(./img/Screenshot\ 2024-07-22\ 082839.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 40%;
+    height: 500px;
+    margin-left: 5%;
+    
+}
+.white{
+    background-color: white;
+    width: 50%;
+    height: 600px;
+}
+.signup{
+    position: absolute;
+    left: 10%;    
+}
+
+.policy{
+    font-size: 16px;
+    position: fixed;
+    left: 30%;
+    top:72%;
+
+}
+
+.start{
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 15px;
+}
+
+.one{
+    width: 350px;
+    border: none;
+    border-bottom: 2px dotted;
+    border-color:lightgray;
+}
+
